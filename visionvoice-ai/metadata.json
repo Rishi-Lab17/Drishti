@@ -1,0 +1,6 @@
+{
+  "name": "Drishti",
+  "description": "AI vision and audio guide for blind and low-vision users featuring real-time scene description, object detection, OCR reading, and voice interaction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

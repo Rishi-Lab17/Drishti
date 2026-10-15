@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Drishti</string>
+    <string name="title_scene_desc">Scene Description</string>
+    <string name="title_read_text">Read Text</string>
+    <string name="title_detect_objects">Detect Objects</string>
+    <string name="title_spatial_depth">Spatial &amp; Depth</string>
+    <string name="action_scan_now">Scan and Describe</string>
+    <string name="action_voice_command">Hold for Voice Command</string>
+    <string name="action_toggle_torch">Toggle Flashlight</string>
+    <string name="action_switch_camera">Switch Camera</string>
+    <string name="action_repeat_speech">Repeat Last Announcement</string>
+    <string name="action_stop_speech">Stop Speaking</string>
+</resources>
